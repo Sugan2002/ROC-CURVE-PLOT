@@ -80,6 +80,8 @@ plt.show()
 ## Output:
 ![eXP_7_nEURAL_oUTPUT](https://user-images.githubusercontent.com/77089743/168777196-5ce9ca00-073b-44f4-bd67-bc4da78f1e55.PNG)
 
+</br>
+</br>
 
 ## Result:
 Thus the python program successully plotted Receiver Operating Characteristic [ROC] Curve.
